@@ -508,7 +508,7 @@ section { padding: 100px 6%; }
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 26px; max-width: 980px; margin: auto;
+  gap: 26px; max-width: 100%; margin: auto;
 }
 
 .project-card {
